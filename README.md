@@ -1,4 +1,4 @@
-### Oi oi! Eu sou o Gabriel Rodrigues e estudo Web Development e Tecnologia!
+### Oi oi! Eu sou o Gabriel Rodrigues e estudo Web Development
 - 🌱 Atualmente estou estudando Front-End (HTML, CSS, e JS).
 <div align="center">
   <a href="https://github.com/gabezrodz">
