@@ -1,6 +1,6 @@
 ### Oi oi! Eu sou o Gabriel Rodrigues e sou estudante de Desenvolvimento Web.
 #### Hi! I'm Gabriel Rodrigues and I'm a Web Development student.
-- 🌱 Atualmente estou estudando Front-End (HTML, CSS, e JS). | I'm currently studying Front-End languages (HTML, CSS, e JS).
+- 🌱 Atualmente estou estudando Front-End (HTML, CSS, JS, Node e React). | I'm currently studying Front-End languages (HTML, CSS, JS , Node and React).
   
 <div align="center">
   <a href="https://github.com/gabezrodz">
