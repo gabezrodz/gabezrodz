@@ -4,8 +4,8 @@
   
 <div align="center">
   <a href="https://github.com/gabezrodz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabezrodz&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabezrodz&theme=dark"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=gabezrodz&show_icons=true&theme=dark"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=gabezrodz&theme=dark&hide=jupyter%20notebook&layout=compact"/>
 </div>
 <div style="display: inline_block" align="center" ><br>
    <img align="center" alt="Gabez-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
