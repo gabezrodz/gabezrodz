@@ -1,5 +1,5 @@
-### Oi oi! Eu sou o Gabriel Rodrigues e sou estudante de Desenvolvimento Web.
-#### Hi! I'm Gabriel Rodrigues and I'm a Web Development student.
+### Oi oi! Eu sou o Gabriel Rodrigues e sou estudante de Desenvolvimento de Software.
+#### Hi! I'm Gabriel Rodrigues and I'm a Software Development student.
 - 🌱 Atualmente estou estudando  TS, Next.JS, MUI e Nest.JS. | Currently i'm studying TS, Next.JS, MUI and Nest.JS.
   
 <div align="center">
