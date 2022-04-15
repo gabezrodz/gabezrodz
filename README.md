@@ -8,6 +8,7 @@
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=gabezrodz&theme=dark&hide=jupyter%20notebook&layout=compact"/>
 </div>
 <div style="display: inline_block" align="center" ><br>
+   <img align="center" alt="Gabez-GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
    <img align="center" alt="Gabez-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
    <img align="center" alt="Gabez-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
    <img align="center" alt="Gabez-Heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg">
